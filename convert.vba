@@ -2,7 +2,6 @@ Sub convertPDFtoDOC()
 '
 ' convertPDFtoDOC Macro
 '
-'
     Dim docDirectory As String
     Dim pdfDirectory As String
     Dim docPath As String
